@@ -1,9 +1,10 @@
-﻿namespace CenterViewDemo;
-
-public partial class AppShell : Shell
+﻿namespace CenterViewDemo
 {
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
 }
