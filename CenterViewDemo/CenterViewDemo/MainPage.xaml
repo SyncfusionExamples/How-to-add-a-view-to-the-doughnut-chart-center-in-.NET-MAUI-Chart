@@ -4,7 +4,7 @@
              xmlns:chart="clr-namespace:Syncfusion.Maui.Charts;assembly=Syncfusion.Maui.Charts"
              x:Class="CenterViewDemo.MainPage">
 
-    <chart:SfCircularChart>
+    <chart:SfCircularChart Margin="0,15,0,0">
 
         <chart:SfCircularChart.Title>
             <Label Margin="4" Text="Revenue Split by Product Categories" HorizontalOptions="Center" FontSize="15"/>
